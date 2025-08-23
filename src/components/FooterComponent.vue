@@ -16,9 +16,9 @@
     </div>
     <div class="mt-2 space-x-2">
       <span>© 2025</span>
-      <a href="https://bsgun.cn" 
+      <a href="https://qxzhan.cn" 
          target="_blank"
-         class="font-bold text-green-600 hover:text-gray-600 transition-colors">梦爱吃鱼</a>
+         class="font-bold text-green-600 hover:text-gray-600 transition-colors">筱序二十</a>
       <a v-if="icpNumber" 
          href="https://icp.xnet.ren/id.php?keyword=20257015" 
          target="_blank"
