@@ -15,12 +15,12 @@
       <span>友善</span>
     </div>
     <div class="mt-2 space-x-2">
-      <span>© 2024</span>
+      <span>© 2025</span>
       <a href="https://bsgun.cn" 
          target="_blank"
          class="font-bold text-green-600 hover:text-gray-600 transition-colors">梦爱吃鱼</a>
       <a v-if="icpNumber" 
-         href="https://beian.miit.gov.cn/" 
+         href="https://icp.xnet.ren/id.php?keyword=20257015" 
          target="_blank"
          class="font-bold text-green-600 hover:text-gray-600 transition-colors">{{ icpNumber }}</a>
       <button class="text-pink-500 font-bold" @click="toggleTips">小提示</button>
